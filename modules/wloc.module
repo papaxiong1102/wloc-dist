@@ -1,4 +1,3 @@
-#!url=https://raw.githubusercontent.com/papaxiong1102/wloc-dist/refs/heads/main/modules/wloc.module
 #!name=Apple WLOC 定位修改（自有固定版）
 #!desc=仅允许两个 Apple WLOC hostname；运行脚本固定到审核版本
 #!author=Yu9191 Rewrite; distribution maintained by papaxiong1102
